@@ -1,0 +1,19 @@
+{
+  "name": "lapanthere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/_main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloevernejoul/lapanthere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloevernejoul/lapanthere/issues"
+  },
+  "homepage": "https://github.com/cloevernejoul/lapanthere.git"
+}

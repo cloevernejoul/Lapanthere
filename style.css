@@ -19,6 +19,12 @@ body {
     color: #585555;
 }
 
+.img-responsive {
+    height: 270px;
+    width: 270px;
+
+}
+
 a,
 button {
     transition: all .3s ease-in-out;

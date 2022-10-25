@@ -10,13 +10,13 @@ body {
 .txt-img {
     font-size: x-large;
     font-family: inherit;
-    color: rgb(103, 102, 102);
+    color: #1A1A1A;
 }
 
 .txt-img2 {
     font-size: x-large;
     font-family: inherit;
-    color: rgb(155, 152, 152);
+    color: #585555;
 }
 
 a,

@@ -320,9 +320,12 @@ a:hover {
 }
 
 .navbar-brand img {
+    height: 40px;
+    width: 217px;
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+
 }
 
 .navbar-brand img[src$=svg] {
@@ -702,7 +705,10 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
 }
-
+.tight-width-whitespace img {
+    width: 100px;
+    height: 100px;
+}
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";

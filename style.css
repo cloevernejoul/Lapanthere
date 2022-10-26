@@ -670,8 +670,10 @@ label {
     text-decoration: none;
     color: #FFF;
 }
-li {
-    color: #FFF;
+a {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #FFFFFF ;
 }
 
 h1,
@@ -681,8 +683,8 @@ h4,
 h5,
 h6,
 p,
-.btn,
-a {
+.btn
+{
     font-family: "helvetica";
     font-weight: 400;
     color:#000000 ;

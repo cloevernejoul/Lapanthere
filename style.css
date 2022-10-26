@@ -18,9 +18,7 @@ body {
     font-family: inherit;
     color: #585555;
 }
-.text-center {
-    display: flex;
-}
+
 
 .img-responsive {
     height: 270px;

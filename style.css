@@ -659,7 +659,18 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
+label {
+    font-family: "helvetica";
+    font-weight: 400;
+    color:#000000 ;
+}
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    text-decoration: none;
+}
 h1,
 h2,
 h3,
@@ -667,7 +678,6 @@ h4,
 h5,
 h6,
 p,
-label,
 .btn,
 a {
     font-family: "helvetica";
@@ -702,6 +712,8 @@ p {
 }
 
 .tight-width-whitespace {
+    display: flex;
+    justify-content: space-around;
     max-width: 600px;
     margin: auto auto auto auto;
 }
